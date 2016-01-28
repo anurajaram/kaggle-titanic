@@ -9,3 +9,7 @@ Solutions for the Titanic Kaggle Competition
 2. nnet_titanic.R <br />
     Description - Neural Net algorithm on the Titanic dataset from kaggle. <br />
     Kaggle score = 0.77033. Model error rate (on training set) = 12.8% . <br/>
+
+3. rf_titanic.R <br />
+    Description - Random Forest algorithm on the Titanic dataset from kaggle. <br />
+    Kaggle score = 0.77512. Model error rate (on training set) = 15.4% . <br/>
