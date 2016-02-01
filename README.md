@@ -13,3 +13,8 @@ Solutions for the Titanic Kaggle Competition
 3. rf_titanic.R <br />
     Description - Random Forest algorithm on the Titanic dataset from kaggle. <br />
     Kaggle score = 0.77512. Model error rate (on training set) = 15.4% . <br/>
+
+4. tree.R <br />
+    Description - Decision tree algorithm on the Titanic dataset from kaggle. <br />
+    Kaggle score = 0.78947. Model error rate (on training set) = 17.7% . <br/>
+    <b>This turned out to be my best performing model even though the model doesn't fit as well as RandomForest or NeuralNet.</b>
