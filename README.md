@@ -18,3 +18,14 @@ Solutions for the Titanic Kaggle Competition
     Description - Decision tree algorithm on the Titanic dataset from kaggle. <br />
     Kaggle score = 0.78947. Model error rate (on training set) = 17.7% . <br/>
     <b>This turned out to be my best performing model even though the model doesn't fit as well as RandomForest or NeuralNet.</b>
+
+5. gender.R <br />
+    Description - Predictions based on gender only. <br />
+    Kaggle score = 0.76555 <br/>
+    <b>This is the baseline model.</b>
+
+4. Logic_rules.R <br />
+    Description - Survival prediction based on broad observations from the training set <br />
+    Kaggle score = 0.77033. 
+
+
