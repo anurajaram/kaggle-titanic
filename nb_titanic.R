@@ -1,5 +1,6 @@
 # Author - Anupama Rajaram
 # Naive-Bayes algorithm on the Titanic dataset from kaggle
+# KAGGLE score = 0.74641
 
 library(e1071)
 attach(train)
